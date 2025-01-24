@@ -22,6 +22,9 @@
   .background-light800_dark400 {
     @apply bg-light-800 dark:bg-dark-400 !important;
   }
+  .background-light800_dark300 {
+    @apply bg-light-800 dark:bg-dark-300 !important;
+  }
 
   .background-light700_dark400 {
     @apply bg-light-700 dark:bg-dark-400;
@@ -50,6 +53,9 @@
   .text-dark400_light700 {
     @apply text-dark-400 dark:text-light-700;
   }
+  .text-dark400_light500 {
+    @apply text-dark-400 dark:text-light-500;
+  }
 
   .text-dark500_light700 {
     @apply text-dark-500 dark:text-light-700 !important;
@@ -65,6 +71,9 @@
 
   .text-dark400_light800 {
     @apply text-dark-400 dark:text-light-800;
+  }
+  .text-dark400_light900 {
+    @apply text-dark-400 dark:text-light-900;
   }
 
   .light-border {
