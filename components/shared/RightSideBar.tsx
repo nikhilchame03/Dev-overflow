@@ -5,20 +5,20 @@ import RenderTag from "./RenderTag";
 
 const RightSideBar = () => {
   const hotQuestions = [
-    { _id: 1, title: "How to I use Express as a custom server in NExtJs" },
-    { _id: 2, title: "How to I use Express as a custom server in NExtJs" },
-    { _id: 3, title: "How to I use Express as a custom server in NExtJs" },
-    { _id: 4, title: "How to I use Express as a custom server in NExtJs" },
-    { _id: 5, title: "How to I use Express as a custom server in NExtJs" },
+    { _id: '1', title: "How to I use Express as a custom server in NExtJs" },
+    { _id: '2', title: "How to I use Express as a custom server in NExtJs" },
+    { _id: '3', title: "How to I use Express as a custom server in NExtJs" },
+    { _id: '4', title: "How to I use Express as a custom server in NExtJs" },
+    { _id: '5', title: "How to I use Express as a custom server in NExtJs" },
   ];
 
   const popularTags=[
 
-    {_id:1,name:'javascript',totalQuestions:5},
-    {_id:2,name:'javascript',totalQuestions:5},
-    {_id:3,name:'javascript',totalQuestions:5},
-    {_id:4,name:'javascript',totalQuestions:5},
-    {_id:5,name:'javascript',totalQuestions:5},
+    {_id:'1',name:'javascript',totalQuestions:5},
+    {_id:'2',name:'javascript',totalQuestions:5},
+    {_id:'3',name:'javascript',totalQuestions:5},
+    {_id:'4',name:'javascript',totalQuestions:5},
+    {_id:'5',name:'javascript',totalQuestions:5},
   ]
 
   return (
